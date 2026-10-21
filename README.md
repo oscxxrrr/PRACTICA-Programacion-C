@@ -1,48 +1,43 @@
-💻 Ejercicios de Programación en C - Grado Medio (SMR)
-¡Bienvenido a mi repositorio de prácticas y ejercicios de programación en lenguaje C! Este espacio recopila las soluciones y proyectos desarrollados durante mi formación en el Grado Medio en Sistemas Microinformáticos y Redes (SMR).
+<!-- ====================== BANNER ====================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:60A5FA&height=200&section=header&text=Pr%C3%A1cticas%20en%20C&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Grado%20Medio%20en%20Sistemas%20Microinform%C3%A1ticos%20y%20Redes&descAlignY=65&descAlign=50&animation=fadeIn" alt="Banner"/>
+</p>
+
 ---
-🚀 Acerca del Repositorio
-Este repositorio está diseñado para documentar mi progreso, lógica de programación y resolución de problemas utilizando el lenguaje C. Cada ejercicio aborda conceptos clave de la programación estructurada, desde la gestión básica de entradas y salidas hasta el manejo de estructuras de datos y control de flujos.
+
+## 📌 Sobre el Repositorio
+
+Este repositorio recopila una serie de **ejercicios prácticos, códigos y soluciones en Lenguaje C** desarrollados durante mi etapa en el Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes (SMR). 
+
+Su propósito principal fue afianzar los fundamentos de la programación estructurada, la lógica algorítmica, el manejo de punteros, estructuras de control y la gestión básica de datos a nivel de consola.
+
 ---
-📂 Contenido del Proyecto
-Los ejercicios incluidos en este repositorio cubren los siguientes temas fundamentales:
-Estructuras de Control Condicionales: Uso de `if`, `else if`, `else` y `switch` para la toma de decisiones.
-Bucles y Estructuras Iterativas: Implementación de bucles `for`, `while` y `do-while` para la automatización de procesos.
-Funciones y modularidad: Creación de funciones personalizadas para optimizar y reutilizar código.
-Vectores y Matrices (Arrays): Manipulación de arreglos unidimensionales y bidimensionales.
-Punteros y Gestión de Memoria: Introducción al uso de direcciones de memoria y referencias.
-Manejo de Cadenas de Caracteres: Procesamiento de textos y arrays de caracteres (`char`).
+
+## 🛠️ Tecnologías y Herramientas
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
-🛠️ Tecnologías y Herramientas
-Lenguaje: C (C99 / C11)
-Compilador: GCC (GNU Compiler Collection)
-Entorno de desarrollo: Visual Studio Code / Terminal de Linux (WSL)
-Control de versiones: Git y GitHub
+
+## 📂 Contenido y Estructura
+
+El repositorio está organizado de forma modular para agrupar diferentes tipos de prácticas y retos de programación:
+
+- **Estructuras de Control:** Ejercicios basados en bucles (`for`, `while`, `do-while`) y condicionales (`if`, `switch`).
+- **Funciones y Modularidad:** Creación de funciones reutilizables y paso de parámetros.
+- **Arrays y Matrices:** Manipulación de vectores y tablas bidimensionales.
+- **Punteros y Gestión de Memoria:** Primer acercamiento a direcciones de memoria y punteros en C.
+- **Cadenas de Caracteres:** Procesamiento y manipulación de strings utilizando librerías estándar.
+
 ---
-⚙️ Cómo compilar y ejecutar los ejercicios
-Si deseas clonar este repositorio y probar los códigos en tu máquina, sigue estos pasos desde tu terminal:
-Clona el repositorio:
-```bash
-   git clone https://github.com/oscxxrrr/PRACTICA-Programacion-C.git
-   ```
-Accede al directorio del ejercicio que desees probar:
-```bash
-   cd PRACTICA-Programacion-C
-   ```
-Compila el archivo fuente (por ejemplo, `programa.c`):
-```bash
-   gcc programa.c -o programa
-   ```
-Ejecuta el binario generado:
-En Linux / macOS / WSL:
-```bash
-     ./programa
-     ```
-En Windows (PowerShell):
-```powershell
-     .\programa.exe
-     ```
----
-👤 Autor
-Oscar — Estudiante de Grado Medio en SMR.
-GitHub: @oscxxrrr
+
+## 🚀 Cómo compilar y ejecutar los ejercicios
+
+Si deseas probar cualquiera de los scripts o códigos fuente de manera local, puedes compilar y ejecutar los archivos utilizando el compilador estándar de C (`gcc`) desde la terminal:
+
+1. Clona el repositorio:
+   ```bash
+   git clone [https://github.com/oscxxrrr/PRACTICA-Programacion-C.git](https://github.com/oscxxrrr/PRACTICA-Programacion-C.git)
